@@ -253,7 +253,6 @@ For information on contributing to this project, please see the [contributing gu
 
 |                                                     API                                                      | Description                                                   |   Auth   | HTTPS |  CORS   |
 | :----------------------------------------------------------------------------------------------------------: | ------------------------------------------------------------- | :------: | :---: | :-----: |
-|                        [1Forge](https://1forge.com/forex-data-api/api-documentation)                         | Forex currency market data                                    | `apiKey` |  Yes  | Unknown |
 |                             [Currency (LabStack)](https://labstack.com/currency)                             | Convert one currency to another with reliable exchanges rates | `apiKey` |  Yes  |   Yes   |
 |                           [Currencylayer](https://currencylayer.com/documentation)                           | Exchange rates and currency conversion                        | `apiKey` |  Yes  | Unknown |
 | [Czech National Bank](https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml) | A collection of exchange rates                                |    No    |  Yes  | Unknown |
